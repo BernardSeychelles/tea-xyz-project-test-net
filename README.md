@@ -1,1 +1,1 @@
-# tea-xyz-project-test-net
+# tea-project-test-net

@@ -1,0 +1,40 @@
+{
+	"name": "tea-xyz-project-test-net",
+	"author": "Bernard",
+	"license": "MIT",
+	"version": "1.0.1",
+	"description": "tea-xyz-project-test-net",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"type": "module",
+	"scripts": {
+		"build": "npx rollup -c"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/BernardSeychelles/tea-xyz-project-test-net.git"
+	},
+	"keywords": [
+		"tea"
+	],
+	"bugs": {
+		"url": "https://github.com/BernardSeychelles/tea-xyz-project-test-net/issues"
+	},
+	"homepage": "https://github.com/BernardSeychelles/tea-xyz-project-test-net#readme",
+	"devDependencies": {
+		"@rollup/plugin-babel": "^6.0.4",
+		"@rollup/plugin-typescript": "^11.1.6",
+		"@types/react": "^18.3.1",
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1",
+		"rollup": "^4.17.0",
+		"tslib": "^2.6.2",
+		"typescript": "^5.4.5"
+	},
+	"dependencies": {
+		"gulp-cheerio": "^1.0.0",
+		"isotope-layout": "^3.0.6",
+		"new-npm-testnet-tea": "^1.0.4",
+		"simplebar": "latest"
+	}
+}
