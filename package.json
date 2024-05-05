@@ -2,7 +2,7 @@
 	"name": "tea-xyz-project-test-net",
 	"author": "Bernard",
 	"license": "MIT",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "tea-xyz-project-test-net",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
