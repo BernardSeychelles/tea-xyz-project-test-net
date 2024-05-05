@@ -35,7 +35,7 @@
 		"gulp-cheerio": "^1.0.0",
 		"isotope-layout": "^3.0.6",
 		"new-npm-testnet-tea": "^1.0.4",
-		"simplebar": "latest",
-		"tea-project-test-net": "^1.0.1"
+		"npm-for-app-tea": "^1.0.1",
+		"simplebar": "latest"
 	}
 }
